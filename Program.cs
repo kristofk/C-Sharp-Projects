@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace bodek
 {
@@ -69,23 +66,7 @@ namespace bodek
         static void Main(string[] args)
         {
             elhelyezes(1);
-            //Console.WriteLine(string.Join("\n", taroltBodek));
-            for (int j = 0; j < taroltBodek.Count; j++)
-            {
-                Console.Write(j + 1);
-                for (int i = 0; i < taroltBodek.Count; i++)
-                {  
-                    if (i == taroltBodek[i])
-                    {
-                        Console.Write("X");
-                    }
-                    else
-                    {
-                        Console.Write("-");
-                    }
-                }
-                Console.WriteLine();
-            }
+            Console.WriteLine(string.Join("\n", taroltBodek));
 
             Console.WriteLine("\n*END*");
             Console.ReadKey();
