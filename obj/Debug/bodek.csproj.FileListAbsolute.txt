@@ -1,0 +1,6 @@
+F:\Dropbox\Programming\MI LtW C\bodek\bodek\bin\Debug\bodek.exe.config
+F:\Dropbox\Programming\MI LtW C\bodek\bodek\bin\Debug\bodek.exe
+F:\Dropbox\Programming\MI LtW C\bodek\bodek\bin\Debug\bodek.pdb
+F:\Dropbox\Programming\MI LtW C\bodek\bodek\obj\Debug\bodek.csprojResolveAssemblyReference.cache
+F:\Dropbox\Programming\MI LtW C\bodek\bodek\obj\Debug\bodek.exe
+F:\Dropbox\Programming\MI LtW C\bodek\bodek\obj\Debug\bodek.pdb
